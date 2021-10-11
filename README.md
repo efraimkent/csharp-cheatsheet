@@ -1,4 +1,4 @@
-# CSharp Cheat Sheet Template
+# CSharp Cheat Sheet
 
 Keyword |                  Summary                   | Sample Code | Mentioned In
 ------- | ------------------------------------------ | ------------ | ------------
